@@ -1,0 +1,19 @@
+{
+  "name": "music4weather-server",
+  "version": "1.0.0",
+  "description": "music4weather challenge - aliare",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaodev/music4weather-server.git"
+  },
+  "author": "André Luiz Astrol de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaodev/music4weather-server/issues"
+  },
+  "homepage": "https://github.com/alaodev/music4weather-server#readme"
+}
