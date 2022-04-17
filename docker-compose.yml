@@ -5,6 +5,6 @@ services:
     build: .
     command: npm start
     ports:
-      - "3000:3000"
+      - "3001:3001"
     volumes:
       - .:/usr/app
