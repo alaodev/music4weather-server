@@ -38,7 +38,7 @@ Antes de começar, tenha certeza de atender os seguintes requisitos:
 
 Para iniciar o projeto, siga os seguintes passos:
 
-Vá para o diretório no qual deseja clonar o proejeto e execute:
+Vá para o diretório no qual deseja clonar o projeto e execute:
 ```
 git clone https://github.com/alaodev/music4weather-server.git
 ```
